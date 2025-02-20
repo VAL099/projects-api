@@ -1,0 +1,19 @@
+line-length = 110
+
+[lint]
+select = ["I", "FAST", "B", "F401"]
+ignore = ["FAST002", "B008", "B006"]
+
+[format]
+quote-style = "single"
+indent-style = "space"
+docstring-code-format = true
+docstring-code-line-length = 60
+line-ending = "lf"
+preview = true
+skip-magic-trailing-comma = false
+
+
+[lint.isort]
+length-sort = true
+lines-between-types = 0

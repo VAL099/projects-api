@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Cegeka Technical Task",
+        "description": "Small app to present your projects",
+        "technologies_used": ["Python", "Flask", "Docker", "uv", "ruff"],
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-20"
+    },
+    {
+        "id": 2,
+        "name": "AI Chat",
+        "description": "Chat interface powered by AI agent that can process natural language, execute tasks and access external tools",
+        "technologies_used": ["Python", "FastAPI", "LangChain", "LangGraph", "OpenAI API", "Redis", "Docker", "Neo4j", "Postgre", "alembic", "Qdrant"],
+        "start_date": "2024-05-27",
+        "end_date": null
+    },
+    {
+        "id": 3,
+        "name": "eShop_telegramBot",
+        "description": "My first big project in Python. It's a telegram bot that can help you to buy and sell some goods.",
+        "technologies_used": ["Python", "aiogram", "SQLite", "TelegramAPI", "*Design Patterns"],
+        "start_date": "2022-04-01",
+        "end_date": "2022-05-01"
+    }
+]

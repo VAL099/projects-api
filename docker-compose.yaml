@@ -1,0 +1,7 @@
+services:
+  api:
+    build: .
+    ports:
+      - "11111:11111"
+    environment:
+      - FLASK_APP=run.py
