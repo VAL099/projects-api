@@ -1,8 +1,7 @@
 from flask_restx import fields
+from api.namespaces import api_ns
 
-from app.api.namespaces import api_ns
-
-project_model = api_ns.model(
+project = api_ns.model(
     name='Project',
     model={
         'id': fields.Integer(readOnly=True, description='The project unique identifier'),

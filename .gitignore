@@ -10,3 +10,5 @@ wheels/
 .venv
 
 *.lock
+.ruff_cache
+.pytest_cache

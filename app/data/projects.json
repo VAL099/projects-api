@@ -17,6 +17,14 @@
     },
     {
         "id": 3,
+        "name": "UNDELUCRAM microservices",
+        "description": "A set of microservices for the UNDELUCRAM project",
+        "technologies_used": ["Python", "FastAPI", "MySQL", "Selenium", "Tensorflow", "Docker", "Hugginface", "Redis", "Celery"],
+        "start_date": "2022-04-01",
+        "end_date": "2022-05-01"
+    },
+    {
+        "id": 3,
         "name": "eShop_telegramBot",
         "description": "My first big project in Python. It's a telegram bot that can help you to buy and sell some goods.",
         "technologies_used": ["Python", "aiogram", "SQLite", "TelegramAPI", "*Design Patterns"],
